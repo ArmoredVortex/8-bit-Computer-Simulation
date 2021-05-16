@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>1</version>
-  <attributes/>
+  <attributes>
+    <entry>
+      <string>Width</string>
+      <int>6</int>
+    </entry>
+    <entry>
+      <string>backgroundColor</string>
+      <awt-color>
+        <red>255</red>
+        <green>102</green>
+        <blue>102</blue>
+        <alpha>255</alpha>
+      </awt-color>
+    </entry>
+  </attributes>
   <visualElements>
     <visualElement>
       <elementName>Splitter</elementName>
